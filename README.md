@@ -4,7 +4,7 @@
 Side-scroller level runner game.
 
 ## ART
-![Concept](https://ibb.co/txM9nJf)
+![Concept](https://i.ibb.co/F0bFcDv/ZER0.jpg)
 
 ## Description
 Siamo nell’anno 300x. Direttamente alla nostra nascita, a ciascuno di noi viene assegnato un ruolo. Dopo diversi anni di addestramento, viene assegnato un punteggio come vita, valore di tale conosciuto solo dalla persona che lo ha.
