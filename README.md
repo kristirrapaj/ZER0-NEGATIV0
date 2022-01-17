@@ -7,7 +7,7 @@ Side-scroller level runner game.
 ![Concept](https://i.ibb.co/F0bFcDv/ZER0.jpg)
 
 ## PLAYLIST
-<iframe src="https://open.spotify.com/embed/playlist/4r3WinaekwU317zEnUfUx7?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+https://open.spotify.com/playlist/4r3WinaekwU317zEnUfUx7?si=092329d0313e4dca
 
 ## Description
 Siamo nell’anno 300x. Direttamente alla nostra nascita, a ciascuno di noi viene assegnato un ruolo. Dopo diversi anni di addestramento, viene assegnato un punteggio come vita, valore di tale conosciuto solo dalla persona che lo ha.
