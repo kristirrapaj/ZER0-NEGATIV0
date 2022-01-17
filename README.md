@@ -1,53 +1,25 @@
-# GameProject Template
-repository prototipo per progetti Game / Unity
 
-## Project Title
-eventuale sottotitolo / tagline
 
-## screenshots
-almeno 2, title e gameplay
-(link a /Marketing/Screenshots folder)
+## ZER0 NEGATIV0
+Side-scroller level runner game.
+
+## ART
+![](C:\Users\djexp\Downloads\ZER0.jpg)Concept
 
 ## Description
-in massimo due frasi sintetizzare il gioco
+Siamo nell’anno 300x. Direttamente alla nostra nascita, a ciascuno di noi viene assegnato un ruolo. Dopo diversi anni di addestramento, viene assegnato un punteggio come vita, valore di tale conosciuto solo dalla persona che lo ha.
+Inizialmente questo punteggio è neutrale, e si può alzare usando i poteri assegnati dal ruolo per aiutare le persone in bisogno.
+Il nostro personaggio si chiama Nairobi. Nasce curante, attraverso il contatto e i suoi poteri curanti riesce ad aiutare le persone ferite per la città e guadagnare punti.
+
+Purtroppo, nessun mondo è perfetto, durante la strada Nairobi incontra tanti criminali che fingendosi bisognosi del suo aiuto al contatto le strappano punti vita fino a che un giorno, il suo punteggio le risulta sotto zero; negativo.
+
+Non trovando nessun altro con questo valore, Nairobi capisce di essere nata 'difettosa'.
+
+Quando ha il punteggio negativo, diventa ancora più forte di prima; è perfettamente in salute, scopre nuove abilità e cerca vendetta in quelli che la hanno usata.
+
 
 ## Requirements
-piattaforma/a su cui gira
+Windows 10, 11.
 
-## Rules
-semplici spiegazioni di come si gioca, i comandi
-altre cose utili se non sono autoesplicative nel gioco
 
-## Challenges
-ovvero le peculiarità di questo progetto
-
-Ad Es:
-- Usa le analytics? AI? Se si in che modo?
-- Target particolare?
-- Come si differenzia?
-- Si può imparare qualcosa?
-- sfide tecniche o di design superate
-
-## ToDo
-cosa manca di importante
-
-## Download / Links
-- links alle builds (se esterne a questo progetto)
-- links ai docs (se esterne a questo progetto)
-- links alla Trello Board/Issues (se esterne a questo progetto)
-
-## Team
-
-**Nome Cognome**
-ruolo  
-specialità  
-url al proprio GitHub o pagina personale
-
-**Nome Cognome**
-ruolo  
-specialità  
-url al proprio GitHub o pagina personale
-
-## License
-licenza d'uso, copyright etc
 
